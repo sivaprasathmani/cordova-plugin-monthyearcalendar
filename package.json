@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-monthyearcalendar",
+  "version": "3.0.1",
+  "description": "Month Year Calendar",
+  "cordova": {
+    "id": "cordova-plugin-monthyearcalendar",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sivapasath"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "sivaprasath",
+  "license": "apache 2.0"
+}
